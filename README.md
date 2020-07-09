@@ -1,9 +1,12 @@
 ## Hi, I'm Brooklyn 🦀
 
-I'm working at [@Bytedance](https://github.com/bytedance)
+I'm working at [@Bytedance](https://github.com/bytedance), living in Shanghai.
 
-My OSS projects: [napi-rs](https://github.com/napi-rs/napi-rs) [sigi-framework](https://github.com/sigi-framework/sigi) [rust-skia](https://github.com/rust-skia/rust-skia)
-[ReactiveDB](https://github.com/ReactiveDB/core)
+### 🧑🏽‍💻 My OSS projects: 
+- [napi-rs](https://github.com/napi-rs)
+- [sigi-framework](https://github.com/sigi-framework)
+- [rust-skia](https://github.com/rust-skia)
+- [ReactiveDB](https://github.com/ReactiveDB)
 
 ### 🚀 Goals in 2020
 - Release [napi 1.0](https://github.com/napi-rs/napi-rs/milestone/1).
