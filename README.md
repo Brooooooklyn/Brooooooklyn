@@ -12,7 +12,7 @@ I'm working at [@Bytedance](https://github.com/bytedance), living in Shanghai.
 
 ### 🚀 Goals in 2020
 - Release [napi 1.0](https://github.com/napi-rs/napi-rs/milestone/1).
-- Find more interesting developers and working with them.
+- Find more interesting developers and work with them.
 - Write more articles: [Moonglade](https://lynvv.xyz/).
 - Learn English.
 - **[Stop running in cycles and ship work that matter](https://basecamp.com/shapeup).**
