@@ -11,11 +11,17 @@ I'm working at [@Bytedance](https://github.com/bytedance), living in Shanghai.
 - [ReactiveDB](https://github.com/ReactiveDB)
 
 ### 🚀 Goals in 2020
-- Release [napi 1.0](https://github.com/napi-rs/napi-rs/milestone/1).
+- ✅ Release [napi 1.0](https://github.com/napi-rs/napi-rs/milestone/1).
+- ⛔️ Find more interesting developers and work with them.
+- ⚠️ Write more articles: [Moonglade](https://lynvv.xyz/).
+- ⛔️ Learn English.
+- ⚡️ **[Stop running in cycles and ship work that matter](https://basecamp.com/shapeup).**
+
+### 🚀 Goals in 2021
+- Release [skia-rs 1.0](https://github.com/Brooooooklyn/skia-rs/issues/113)
 - Find more interesting developers and work with them.
 - Write more articles: [Moonglade](https://lynvv.xyz/).
-- Learn English.
-- **[Stop running in cycles and ship work that matter](https://basecamp.com/shapeup).**
+- Try to speedup `Webpack` or `TypeScript` in [napi-rs](https://github.com/napi-rs) without breaking API of them.
 
 ### 👀 If you want join my team in ByteDance...
 
