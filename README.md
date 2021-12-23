@@ -3,9 +3,13 @@
 🚀 Help me to become a full-time open-source developer by [sponsoring me on Github](https://github.com/sponsors/Brooooooklyn)
 
 <p align="center">
-  <a href="https://lyn.one">blog</a> .
-  <a href="https://twitter.com/Brooooook_lyn">tweets</a> .
-  <a href="https://github.com/sponsors/Brooooooklyn">sponsor</a>
+  <samp>
+    <a href="https://lyn.one">blog</a> .
+    <a href="https://twitter.com/Brooooook_lyn">tweets</a> .
+    <a href="https://github.com/sponsors/Brooooooklyn">sponsor</a> .
+    <a href="https://www.patreon.com/lyn_oss">patreon</a> .
+    <a href="https://afdian.net/@Brooklyn">afdian</a>
+  </samp>
 </p>
 
 <p align="center">
