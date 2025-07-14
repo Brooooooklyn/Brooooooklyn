@@ -8,7 +8,7 @@
     <a href="https://twitter.com/Brooooook_lyn">tweets</a> .
     <a href="https://github.com/sponsors/Brooooooklyn">sponsor</a> .
     <a href="https://www.patreon.com/lyn_oss">patreon</a> .
-    <a href="https://afdian.net/@Brooklyn">afdian</a>
+    <a href="https://afdian.com/@Brooklyn">afdian</a>
   </samp>
 </p>
 
