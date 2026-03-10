@@ -2,6 +2,7 @@
 
 <p align="center">
   <strong>Working at <a href="https://voidzero.dev">VoidZero</a></strong><br/>
+  Previously at <a href="https://github.com/toeverything/AFFiNE">AFFiNE</a>, <a href="https://github.com/vercel">Vercel</a>, and <a href="https://github.com/web-infra-dev">Bytedance Web Infra</a><br/>
   Building the next-generation unified JavaScript toolchain
 </p>
 
