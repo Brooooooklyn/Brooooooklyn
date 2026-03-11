@@ -22,12 +22,12 @@ Core team member of [Rolldown](https://github.com/rolldown/rolldown), [OXC](http
 
 ### My Projects
 
-| Project | Stars | Description |
-| ------- | ----- | ----------- |
-| [**napi-rs**](https://github.com/napi-rs/napi-rs) | ![](https://img.shields.io/github/stars/napi-rs/napi-rs?style=flat-square) | The framework for building compiled Node.js add-ons in Rust via Node-API. |
-| [**@napi-rs/canvas**](https://github.com/Brooooooklyn/canvas) | ![](https://img.shields.io/github/stars/Brooooooklyn/canvas?style=flat-square) | High-performance Google Skia binding for Node.js. Zero system dependencies. |
-| [**rust-skia**](https://github.com/rust-skia/rust-skia) | ![](https://img.shields.io/github/stars/rust-skia/rust-skia?style=flat-square) | Safe Rust bindings to the Skia Graphics Library. |
-| [**node-rs**](https://github.com/napi-rs/node-rs) | ![](https://img.shields.io/github/stars/napi-rs/node-rs?style=flat-square) | Drop-in Rust replacements for common native Node.js modules. No `node-gyp` required. |
+| Project                                                       | Stars                                                                                                                    | Description                                                                          |
+| ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
+| [**napi-rs**](https://github.com/napi-rs/napi-rs)             | [![](https://img.shields.io/github/stars/napi-rs/napi-rs?style=flat-square)](https://github.com/napi-rs/napi-rs)         | The framework for building compiled Node.js add-ons in Rust via Node-API.            |
+| [**@napi-rs/canvas**](https://github.com/Brooooooklyn/canvas) | [![](https://img.shields.io/github/stars/Brooooooklyn/canvas?style=flat-square)](https://github.com/Brooooooklyn/canvas) | High-performance Google Skia binding for Node.js. Zero system dependencies.          |
+| [**rust-skia**](https://github.com/rust-skia/rust-skia)       | [![](https://img.shields.io/github/stars/rust-skia/rust-skia?style=flat-square)](https://github.com/rust-skia/rust-skia) | Safe Rust bindings to the Skia Graphics Library.                                     |
+| [**node-rs**](https://github.com/napi-rs/node-rs)             | [![](https://img.shields.io/github/stars/napi-rs/node-rs?style=flat-square)](https://github.com/napi-rs/node-rs)         | Drop-in Rust replacements for common native Node.js modules. No `node-gyp` required. |
 
 ### Ecosystem Contributions
 
@@ -50,27 +50,28 @@ I'm exploring building faster and safer libraries by collaborating with coding a
 
 > ~61M weekly downloads. High-performance Rust-powered packages distributed as pure npm binaries via [napi-rs](https://napi.rs).
 
-| Package | Weekly Downloads | Description |
-| ------- | :-----------: | ----------- |
-| [`@napi-rs/wasm-runtime`](https://github.com/napi-rs/napi-rs) | ![](https://img.shields.io/npm/dw/@napi-rs/wasm-runtime?style=flat-square) | WASM fallback runtime for napi-rs packages |
-| [`@napi-rs/canvas`](https://github.com/Brooooooklyn/canvas) | ![](https://img.shields.io/npm/dw/@napi-rs/canvas?style=flat-square) | Google Skia binding with Canvas 2D API |
-| [`@napi-rs/nice`](https://github.com/Brooooooklyn/nice) | ![](https://img.shields.io/npm/dw/@napi-rs/nice?style=flat-square) | `nice` binding for process priority control |
-| [`@swc-node/register`](https://github.com/Brooooooklyn/swc-node) | ![](https://img.shields.io/npm/dw/@swc-node/register?style=flat-square) | SWC-powered TypeScript register hook |
-| [`@node-rs/xxhash`](https://github.com/napi-rs/node-rs/tree/main/packages/xxhash) | ![](https://img.shields.io/npm/dw/@node-rs/xxhash?style=flat-square) | Fastest xxHash implementation for Node.js |
-| [`snappy`](https://github.com/Brooooooklyn/snappy) | ![](https://img.shields.io/npm/dw/snappy?style=flat-square) | Snappy compression library |
-| [`@napi-rs/cli`](https://github.com/napi-rs/napi-rs) | ![](https://img.shields.io/npm/dw/@napi-rs/cli?style=flat-square) | CLI toolchain for building napi-rs projects |
-| [`@napi-rs/lzma`](https://github.com/Brooooooklyn/lzma) | ![](https://img.shields.io/npm/dw/@napi-rs/lzma?style=flat-square) | LZMA/XZ compression binding |
-| [`@napi-rs/tar`](https://github.com/napi-rs/tar) | ![](https://img.shields.io/npm/dw/@napi-rs/tar?style=flat-square) | High-performance tar archive binding |
-| [`@node-rs/argon2`](https://github.com/napi-rs/node-rs/tree/main/packages/argon2) | ![](https://img.shields.io/npm/dw/@node-rs/argon2?style=flat-square) | Argon2 password hashing |
-| [`@napi-rs/keyring`](https://github.com/Brooooooklyn/keyring-node) | ![](https://img.shields.io/npm/dw/@napi-rs/keyring?style=flat-square) | OS keychain access (keyring-rs binding) |
-| [`@napi-rs/simple-git`](https://github.com/Brooooooklyn/simple-git) | ![](https://img.shields.io/npm/dw/@napi-rs/simple-git?style=flat-square) | libgit2 binding |
-| [`@node-rs/crc32`](https://github.com/napi-rs/node-rs/tree/main/packages/crc32) | ![](https://img.shields.io/npm/dw/@node-rs/crc32?style=flat-square) | Fastest CRC32 implementation for Node.js |
-| [`@node-rs/bcrypt`](https://github.com/napi-rs/node-rs/tree/main/packages/bcrypt) | ![](https://img.shields.io/npm/dw/@node-rs/bcrypt?style=flat-square) | Fastest bcrypt implementation for Node.js |
-| [`@node-rs/jieba`](https://github.com/napi-rs/node-rs/tree/main/packages/jieba) | ![](https://img.shields.io/npm/dw/@node-rs/jieba?style=flat-square) | Chinese text segmentation |
-| [`@napi-rs/image`](https://github.com/Brooooooklyn/image) | ![](https://img.shields.io/npm/dw/@napi-rs/image?style=flat-square) | Image processing library |
-| [`@oxc-node/core`](https://github.com/oxc-project/oxc-node) | ![](https://img.shields.io/npm/dw/@oxc-node/core?style=flat-square) | OXC compiler Node.js binding |
-| [`@napi-rs/pinyin`](https://github.com/Brooooooklyn/pinyin) | ![](https://img.shields.io/npm/dw/@napi-rs/pinyin?style=flat-square) | Chinese pinyin conversion |
-| [`@napi-rs/blake-hash`](https://github.com/Brooooooklyn/blake-hash) | ![](https://img.shields.io/npm/dw/@napi-rs/blake-hash?style=flat-square) | BLAKE3 / blake2b / blake2s hashing |
+| Package                                                                           |                                                       Weekly Downloads                                                       | Description                                 |
+| --------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------- |
+| [`@napi-rs/wasm-runtime`](https://github.com/napi-rs/napi-rs)                     | [![](https://img.shields.io/npm/dw/@napi-rs/wasm-runtime?style=flat-square)](https://npmx.dev/package/@napi-rs/wasm-runtime) | WASM fallback runtime for napi-rs packages  |
+| [`@napi-rs/canvas`](https://github.com/Brooooooklyn/canvas)                       |       [![](https://img.shields.io/npm/dw/@napi-rs/canvas?style=flat-square)](https://npmx.dev/package/@napi-rs/canvas)       | Google Skia binding with Canvas 2D API      |
+| [`@napi-rs/nice`](https://github.com/Brooooooklyn/nice)                           |         [![](https://img.shields.io/npm/dw/@napi-rs/nice?style=flat-square)](https://npmx.dev/package/@napi-rs/nice)         | `nice` binding for process priority control |
+| [`@swc-node/register`](https://github.com/Brooooooklyn/swc-node)                  |    [![](https://img.shields.io/npm/dw/@swc-node/register?style=flat-square)](https://npmx.dev/package/@swc-node/register)    | SWC-powered TypeScript register hook        |
+| [`@node-rs/xxhash`](https://github.com/napi-rs/node-rs/tree/main/packages/xxhash) |       [![](https://img.shields.io/npm/dw/@node-rs/xxhash?style=flat-square)](https://npmx.dev/package/@node-rs/xxhash)       | Fastest xxHash implementation for Node.js   |
+| [`snappy`](https://github.com/Brooooooklyn/snappy)                                |                [![](https://img.shields.io/npm/dw/snappy?style=flat-square)](https://npmx.dev/package/snappy)                | Snappy compression library                  |
+| [`@napi-rs/cli`](https://github.com/napi-rs/napi-rs)                              |          [![](https://img.shields.io/npm/dw/@napi-rs/cli?style=flat-square)](https://npmx.dev/package/@napi-rs/cli)          | CLI toolchain for building napi-rs projects |
+| [`@napi-rs/lzma`](https://github.com/Brooooooklyn/lzma)                           |         [![](https://img.shields.io/npm/dw/@napi-rs/lzma?style=flat-square)](https://npmx.dev/package/@napi-rs/lzma)         | LZMA/XZ compression binding                 |
+| [`@napi-rs/tar`](https://github.com/napi-rs/tar)                                  |          [![](https://img.shields.io/npm/dw/@napi-rs/tar?style=flat-square)](https://npmx.dev/package/@napi-rs/tar)          | High-performance tar archive binding        |
+| [`@node-rs/argon2`](https://github.com/napi-rs/node-rs/tree/main/packages/argon2) |       [![](https://img.shields.io/npm/dw/@node-rs/argon2?style=flat-square)](https://npmx.dev/package/@node-rs/argon2)       | Argon2 password hashing                     |
+| [`@napi-rs/keyring`](https://github.com/Brooooooklyn/keyring-node)                |      [![](https://img.shields.io/npm/dw/@napi-rs/keyring?style=flat-square)](https://npmx.dev/package/@napi-rs/keyring)      | OS keychain access (keyring-rs binding)     |
+| [`@napi-rs/simple-git`](https://github.com/Brooooooklyn/simple-git)               |   [![](https://img.shields.io/npm/dw/@napi-rs/simple-git?style=flat-square)](https://npmx.dev/package/@napi-rs/simple-git)   | libgit2 binding                             |
+| [`@node-rs/crc32`](https://github.com/napi-rs/node-rs/tree/main/packages/crc32)   |        [![](https://img.shields.io/npm/dw/@node-rs/crc32?style=flat-square)](https://npmx.dev/package/@node-rs/crc32)        | Fastest CRC32 implementation for Node.js    |
+| [`@node-rs/bcrypt`](https://github.com/napi-rs/node-rs/tree/main/packages/bcrypt) |       [![](https://img.shields.io/npm/dw/@node-rs/bcrypt?style=flat-square)](https://npmx.dev/package/@node-rs/bcrypt)       | Fastest bcrypt implementation for Node.js   |
+| [`@node-rs/jieba`](https://github.com/napi-rs/node-rs/tree/main/packages/jieba)   |        [![](https://img.shields.io/npm/dw/@node-rs/jieba?style=flat-square)](https://npmx.dev/package/@node-rs/jieba)        | Chinese text segmentation                   |
+| [`@napi-rs/image`](https://github.com/Brooooooklyn/image)                         |        [![](https://img.shields.io/npm/dw/@napi-rs/image?style=flat-square)](https://npmx.dev/package/@napi-rs/image)        | Image processing library                    |
+| [`ts-import-plugin`](https://github.com/Brooooooklyn/ts-import-plugin)             | [![](https://img.shields.io/npm/dw/ts-import-plugin?style=flat-square)](https://npmx.dev/package/ts-import-plugin)           | Modular import transformer for TypeScript   |
+| [`@oxc-node/core`](https://github.com/oxc-project/oxc-node)                       |        [![](https://img.shields.io/npm/dw/@oxc-node/core?style=flat-square)](https://npmx.dev/package/@oxc-node/core)        | OXC compiler Node.js binding                |
+| [`@napi-rs/pinyin`](https://github.com/Brooooooklyn/pinyin)                       |       [![](https://img.shields.io/npm/dw/@napi-rs/pinyin?style=flat-square)](https://npmx.dev/package/@napi-rs/pinyin)       | Chinese pinyin conversion                   |
+| [`@napi-rs/blake-hash`](https://github.com/Brooooooklyn/blake-hash)               |   [![](https://img.shields.io/npm/dw/@napi-rs/blake-hash?style=flat-square)](https://npmx.dev/package/@napi-rs/blake-hash)   | BLAKE3 / blake2b / blake2s hashing          |
 
 ---
 
