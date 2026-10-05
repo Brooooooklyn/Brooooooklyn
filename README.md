@@ -48,7 +48,7 @@ I'm exploring building faster and safer libraries by collaborating with coding a
 
 ### npm Packages
 
-> ~98M weekly downloads. High-performance Rust-powered packages distributed as pure npm binaries via <a href="https://napi.rs" target="_blank">napi-rs</a>.
+> ~159M weekly downloads. High-performance Rust-powered packages distributed as pure npm binaries via <a href="https://napi.rs" target="_blank">napi-rs</a>.
 
 | Package                                                                                                      |                                                                         Weekly Downloads                                                                         | Description                                 |
 | ------------------------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------- |
